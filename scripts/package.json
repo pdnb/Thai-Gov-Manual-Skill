@@ -1,0 +1,10 @@
+{
+  "name": "thai-gov-manual-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "docx": "9.15.4",
+    "pdf-to-img": "4.5.0",
+    "playwright": "1.49.1"
+  }
+}
